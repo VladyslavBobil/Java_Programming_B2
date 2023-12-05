@@ -1,6 +1,6 @@
 package day36_inheritance.shapes;
 
-public class Shapes {
+public class  Shapes {
 
     String name;
 
